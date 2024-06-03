@@ -11,3 +11,4 @@
 - [Sorting NumPy Arrays](sorting-array.md)
 - [NumPy Array Iteration](array-iteration.md)
 - [Concatenation of Arrays](concatenation-of-arrays.md)
+- [Solving Linear Equation in 2 Variables using NumPy](Solving_Linear_Equaton_in_2_variables.md)
